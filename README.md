@@ -19,7 +19,9 @@ A beautifully designed, Ethereum-powered, Web3 To-Do application built with Next
 
 ## 📸 Screenshots
 
-![BlockTick Screenshot](./screenshot.png) <!-- Add your screenshot file here -->
+![BlockTick Screenshot](./public/1.png) 
+![BlockTick Screenshot](./public/image.png) 
+
 
 ---
 
