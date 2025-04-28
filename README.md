@@ -37,13 +37,3 @@ A beautifully designed, Ethereum-powered, Web3 To-Do application built with Next
 - **TypeScript**
 
 ---
-
-## 🧑‍💻 Getting Started
-
-### Prerequisites
-
-- Node.js (v18+ recommended)
-- npm or yarn
-- MetaMask or another browser Ethereum wallet
-
-
